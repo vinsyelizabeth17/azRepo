@@ -1,0 +1,6 @@
+/workspaces/azRepo/package-dotnet/obj/Debug/net8.0/package-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/azRepo/package-dotnet/obj/Debug/net8.0/package-dotnet.AssemblyInfoInputs.cache
+/workspaces/azRepo/package-dotnet/obj/Debug/net8.0/package-dotnet.AssemblyInfo.cs
+/workspaces/azRepo/package-dotnet/obj/Debug/net8.0/package-dotnet.csproj.CoreCompileInputs.cache
+/workspaces/azRepo/package-dotnet/obj/Debug/net8.0/package-dotnet.sourcelink.json
+/workspaces/azRepo/package-dotnet/obj/Debug/net8.0/package-dotnet.csproj.AssemblyReference.cache
