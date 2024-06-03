@@ -1,3 +1,4 @@
 package-dotnet/bin/*
+package-dotnet/obj/*
 package-dotnet/obj/Debug/*
 
